@@ -11,9 +11,10 @@ Currently MEEFEE backend is comprised of two servers:
 
 # Server scheme
 
-#### Architecture and functional are available at [WorkFlowy desk](https://workflowy.com/s/meefee-backend-main/WQttcUF8Kh3E0YMu).
+#### Architecture and functional are available at [WorkFlowy desk](https://workflowy.com/s/meefee-backend-teleg/4SK0A0kKeoZaDUrS).
+#### MEEFEE Backend (telegram) technologies available at [WorkFlowy desk #2](https://workflowy.com/s/technologies/OpdgYNcsikQdCL7G).
 
-WorkFlowy desk and README will be updated during project development.
+_*WorkFlowy desk and README will be updated during project development._
 
 ## Project status
 
